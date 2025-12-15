@@ -34,12 +34,14 @@ sidebar:
 
     interests:
       - item: Competitive Programming
-        link: https://www.geeksforgeeks.org/profile/shreejajsr10?tab=activity
-        link: https://leetcode.com/u/SHREEJASINGH/
+        link: 
+         - https://www.geeksforgeeks.org/profile/shreejajsr10?tab=activity
+         - https://leetcode.com/u/SHREEJASINGH/
 
       - item: Campus Ambassador
-        link: https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view
-        link: https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view
+        link: 
+        - https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view
+        - https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view
         
       - item: Modelling/Acting
         link: 
@@ -66,7 +68,7 @@ education:
       Focus: AI/ML, Deep Learning, Reinforcement Learning
       details: |
       
-   -  degree: B.Tech in Electronics and Communication Engineering
+    - degree: B.Tech in Electronics and Communication Engineering
       university: Bangalore Institute of Technology
       grade: GPA - 4.0/4.0
       time: Nov 2020 - Jun 2024
@@ -132,7 +134,7 @@ projects:
                   <b>Technologies:</b> Python, TensorFlow, PyTorch, Hugging Face, Q-Learning, DQN, PPO, A3C, SAC, LLaMA 2, Cloud Integration
          
       - title: AI-powered Face Recognition System
-        link: (https://github.com/shreeja5060/Celebrity-Face-Recognition)
+        link: https://github.com/shreeja5060/Celebrity-Face-Recognition
         tagline: |
                  Developed a robust face recognition system using ensemble learning, OpenCV, and Flask, achieving 95% accuracy on a dataset of 10,000+ images. 
                  Optimized preprocessing pipeline with 20% noise reduction and enhanced facial feature extraction. Designed Flask-based backend ensuring fast 
@@ -141,7 +143,7 @@ projects:
                  <b>Technologies:</b> Python, OpenCV, Flask, Ensemble Learning, CNNs, Transfer Learning, Image Processing
 
       - title: Instagram Pixel (Instagram Clone)
-        link: (https://github.com/shreeja5060/Instagram-pixel)
+        link: https://github.com/shreeja5060/Instagram-pixel
         tagline: |
                 Developed a full-featured Instagram-like Android application with secure login, media posting, stories, and messaging capabilities. 
                 Improved UI/UX speed by 35% through optimization and strengthened data privacy measures. Enhanced user engagement and built scalable 
@@ -150,7 +152,7 @@ projects:
                 <b>Technologies:</b> Android SDK, Java, Parse Server, Parse SDK, User Authentication, Material Design
 
       - title: Weather App
-        link: (https://github.com/shreeja5060/What-s-the-Weather)
+        link: https://github.com/shreeja5060/What-s-the-Weather
         tagline: |
                  Designed and developed a weather application providing real-time weather updates with accurate forecasts. Integrated location services 
                  and API calls for fetching weather data. Implemented intuitive UI/UX design for enhanced user engagement.
@@ -197,8 +199,8 @@ leadexperiences:
                - Represented VERZEO's online learning programs and IIT Bombay's Techfest on campus.
                - Organized promotional events and encouraged student participation in national technical festivals.
                - Built partnerships between the college and external organizations for student benefit.
-     [[Badge]]-(https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view)
-     []Badge]]-(https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view) 
+     [Badge](https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view)
+     ]Badge](https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view) 
                
 awards:
     intro: |
@@ -292,3 +294,4 @@ presentations:
       description: Led weekly Change Control Board meetings, managing change requests and ensuring compliance with quality processes.
 
 footer: >
+@ 2025 Shreeja Singh
