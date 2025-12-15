@@ -8,16 +8,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sahil Garg
-    tagline: Software Engineer and Technical Leader
+    name: ShreejaSingh
+    tagline: Software Engineer and Software Quality Specialist
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sahilgarg3098@gmail.com
+    email: ssingh160@hawk.illinoistech.edu
     phone:
     website: #do not add http://
-    linkedin: sahilgarg30
-    github: sahilgarg30
+    linkedin: ssinghcs
+    github: shreeja5060
     gitlab:
     bitbucket:
     twitter:
@@ -32,501 +32,263 @@ sidebar:
       - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-       
-      - idiom: German
-        level: Elementary
-        
-      - idiom: Italian
-        level: Elementary
-
     interests:
       - item: Competitive Programming
-        link: https://www.hackerrank.com/sahilgarg30
+        link: https://www.geeksforgeeks.org/profile/shreejajsr10?tab=activity
+        link: https://leetcode.com/u/SHREEJASINGH/
 
-      - item: Tech quizzing
-        link: https://drive.google.com/file/d/1TR52_UJCeRN0xsQN3XuXQNuOd4i1BSyB/view?usp=sharing
-
-      - item: Sports - Basketball, Table Tennis
-        link: https://drive.google.com/file/d/1zZq9XsfCHINuekQJ5tG4mKl4NjDLNs0Z/view?usp=sharing
+      - item: Campus Ambassador
+        link: https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view
+        link: https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view
         
-      - item: Music - Guitar
+      - item: Modelling/Acting
         link: 
 
 career-profile:
     title: Career Profile
     summary: |
-             <b>Software Engineer at Amazon</b> in the Prime Video org. My expertise is in developing and leading large scale software applications. I have extensive experience in building scalable, reliable and resilient full stack applications for web and mobile devices used by
-             millions of users. My top programming languages are Java, C++, Python and JavaScript.
+             <b>Graduate Student in Computer Science at Illinois Institute of Technology</b> with expertise in AI/ML, software engineering, and application development.I have hands-on experience in building intelligent and scalable software systems, including AI-driven applications, backend services, and Android-based mobile solutions, with a focus on performance, reliability, and real-world deployment. My top programming languages are Java and Python.
              
-             Previously, software engineer at Google in the Google TV Team. Graduate from <b>Manipal Institute of Technology (MIT), India</b> in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1957, Department Rank 1/246)</b>.
+             Former <b>Software Quality Engineer at Microchip</b>, where I developed AI-powered tools and chatbots that improved team productivity by 40% and enhanced compliance processes. 
+             Strong background in implementing ASPICE, ISO 26262, and ISO 21434 standards for automotive software development.
+             
+             Completed <b>Bachelor of Technology in Electronics and Communication Engineering</b> from Bangalore Institute of Technology with a <b>perfect GPA of 4.0/4.0</b>.
       
-             Keen interests in - <b>Data Science and analytics, Artificial Intelligence, Machine Learning, Application Development and Systems</b>.
+             Core competencies include - <b>Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, NLP, Software Quality Assurance, and Automotive Standards Compliance</b>.
 
-             [[PDF version of resume]](https://drive.google.com/file/d/15vjuzJ9VJF8SnSxZhH4sAocZfAcY8_Uu/view?usp=sharing) [[University Rank]](https://drive.google.com/file/d/11IfXIGcp1ILbvAanfmPELG88aUoxYnBC/view?usp=sharing) [[Transcripts]](https://drive.google.com/file/d/1rweWc2qImcrxRKoqFI8hWfE1zHNYhozI/view?usp=sharing) [[MOOCs]](https://drive.google.com/file/d/1XEYlq4S8ipQcEYm-joAS0v68AZkhN-PC/view?usp=sharing)
+             [[PDF version of resume]](https://drive.google.com/file/d/1yowBitMaTrtHeyMZ4DWDjVX3I7Lq8-41/view)[[Transcripts]](https://drive.google.com/file/d/1hhnrRcj_IEP9KaIAiMaENCnzq9g4WmUj/view) [[MOOCs]](https://drive.google.com/file/d/1-ttXIeoV2ASEQHZeenYlZLrM1KV8UVn8/view)
 
 education:
-    - degree: Master of Engineering (MEng) in EECS department
-      university: University of California, Berkeley
-      grade: NA (Paused)
-      time: 2021
-      rank1: Specialisation in Data Science and Systems
+    - degree: Master of Science in Computer Science
+      university: Illinois Institute of Technology
+      grade: GPA - 4.0/4.0
+      time: Aug 2025 - May 2027
+      Focus: AI/ML, Deep Learning, Reinforcement Learning
       details: |
       
-    - degree: B.Tech in Computer Science
-      university: Manipal Institute of Technology, Manipal 
-      grade: CGPA - 9.94/10.00
-      rank1 : University Rank - 1/1957
-      rank2 : Department Rank - 1/246
-      time: 2016 - 2020
-      details: |
+   -  degree: B.Tech in Electronics and Communication Engineering
+      university: Bangalore Institute of Technology
+      grade: GPA - 4.0/4.0
+      time: Nov 2020 - Jun 2024
+      details: | 
           
 experiences:
-    - role: Software Engineer II
-      time: Dec 2022 - PRESENT
-      company: Amazon Prime Video and Studios, US
+   - role: Software Quality Engineer
+      time: Jul 2024 - Jul 2025
+      company: Microchip Technology, Bengaluru
       details:  |
-        Working in the Data Tools, Monitoring and Insights team at Prime Video building services, tools and applications for large scale real time monitoring, reporting, dashboarding, analytics, and insight generation from all of Prime Video data.
-        Technical lead of team of 5 engineers, leading the primary reporting and dash-boarding platform for prime video data from video streams used by tens of thousands of customers internal and external to Amazon, and for live contractual reporting.
+        Developed AI-powered solutions and implemented automotive quality standards across semiconductor manufacturing processes.
         
-          - Designed, implemented and launched several large features on the React based web applications for real time data analysis on video streams, retrieval of data fields and metrics using a fully automated pipeline, query execution on data tables etc.
-          - Technical lead of team of 4 engineers, leading end to end architecture and design along with development of a multi-stage micro-service based application to detect, measure and raise data quality issues in petabyte-scale telemetry data generated during video streaming. Launched the service that
-            processes 100s of petabytes of data daily, proactively identifying critical data issues and avoiding bad reporting for legal and contracts saving millions of dollars monthly.
-          - Working on architecture and implementation of Generative AI based tools for insight generation, anomaly detection, issue identification and mitigation, root cause analysis on playback information from video streams on Prime Video.
-          - Mentored and led summer interns and software engineers on the team. Leading operational efficiency initiatives. Thought leader for engineering excellence. Actively involved in hiring and recruiting, as well as overall operational planning and strategy.
-        
-        [[Website - Prime Video]](https://www.primevideo.com/) [[Prime Video Redirect]](https://videodirect.amazon.com/) 
+          - Developed and enhanced Microchip's AI-powered Chatbot integrated with ASPICE, JIRA, POLARION, and CAD tools, reducing manual search time by 40% and significantly improving team productivity across engineering workflows.
+          - Implemented advanced Image Recognition and NLP features in the chatbot using Python, enabling engineers to upload, analyze, and extract insights from process diagrams and functional safety/cybersecurity documents, improving documentation accuracy and efficiency.
+          - Conducted ASPICE assessments and audits through chatbot-CAD integration, guiding teams to achieve Capability Level 3 (CL3), improving audit readiness by 30% and ensuring standardized process adoption across projects.
+          - Supported AI/ML-driven projects in semiconductor manufacturing, applying machine learning techniques for defect detection, increasing defect detection accuracy by 20% and reducing production errors.
+          - Led training sessions on ASPICE processes and quality standards to different departments, driving awareness and adoption of best practices.
                 
-    - role: Software Engineer III
-      time: Oct 2022 - Dec 2022
-      company: Walmart Labs, US
+                
+    - role: Software Quality Intern
+      time: Feb 2024 - Jun 2024
+      company: Microchip Technology, Bengaluru
       details:  |
-        Short stint in the Cart and Checkout team at Walmart to build services and application features on Web, Android and iOS devices to enable users to shop online at Walmart using a seamless cart and checkout experience. This involved managing services that create, update and track a user's cart and
-        interact with inventory management, deals, offers, concurrent purchases and delivery/pickup options. It also involved managing the checkout workflow, such that users can set their delivery/pickup times and preferences and pay via multiple channels.
+        Gained comprehensive experience in automotive software quality standards and requirements management.
 
-          - Worked on feature enhancements and bug fixes on the backend services that support both the cart and checkout workflows across all devices. Developed and deployed a feature to show new Thanksgiving offers and Black Friday Sale deals in the user's carts.
-          - Handled deployments and scaling during the black friday sale period, which is when the apps and services experience the maximum annual concurrent traffic.
+          - Implemented Automotive SPICE (ASPICE), ISO 26262, and ISO 21434 guidelines to enhance software quality and strengthen compliance across ongoing development cycles.
+          - Engineered requirement workflows using JIRA and POLARION, improving traceability and reducing documentation effort by 20%.
+          - Spearheaded documentation pipelines for Project Sagittarius, enabling faster validation of AUTOSAR-based microcontroller development aligned with ASPICE and ISO 26262 standards.
+          - Participated in three-day intensive ASPICE training by the Corporate Quality Team, gaining deep insights into process improvement methodologies.
         
-        [[Website - Walmart]](https://www.walmart.com/) [[Android App]](https://play.google.com/store/apps/details?id=com.walmart.android&hl=en_US) [[iOS App]](https://apps.apple.com/us/app/walmart-shopping-savings/id338137227) 
         
-    - role: Software Engineer
-      time: Aug 2020 - Sep 2022
-      company: Google, India
-      details:  |
-        Worked in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
-
-          - Built client-side and server-side user-facing features launched on over 80M+ devices in more than 100 countries on the Android TV Operating System to make the user experience on the TV more delightful and personalised.
-            Coverage by [[The Verge]](https://www.theverge.com/2021/7/19/22580720/android-tv-watchlist-google-tv-features)[[Engadget]](https://www.engadget.com/android-tv-update-features-from-google-tv-160004195.html)[[Gizmodo]](https://gizmodo.com/google-is-giving-android-tv-a-new-watchlist-and-an-impr-1847318496)
-          - Designed and implemented several features to enhance the quality of content recommendations on Android TV as well as showcase advertisements, promotions and merchandising content to users on the platform.
-          - Developed a reference application integrating several new features within a TV app such as Cast, Voice Actions (Google Assistant) and Search to demonstrate best practices and accurate implementation to partners and external developers, and facilitate higher-quality applications.
-            [[Demo]](https://www.youtube.com/watch?v=SN7Xw6TGdcY) [[Code Repo]](https://github.com/android/tv-samples/tree/main/ReferenceAppKotlin) (many features are in Early Access Program and not launched publicly yet)
-          - Worked on creating self-serve tools and interfaces to help improve developer experience and make it simpler, faster and easier for developers to build their applications for the Android TV and Google TV.
-          - Developed a pipeline for content producers and publishers to integrate with systems at Google, and seamlessly provide content assets and metadata.
-          
-        [[Website - Google TV]](https://tv.google) [[Website - Android TV]](https://www.android.com/intl/en_in/tv/) 
+    - role: Software Development Intern
+      time: Jul 2022 - Aug 2022
+      company: Tata Steel, Jamshedpur
+      details: |
+        Developed social networking application with focus on corporate collaboration.
         
-    - role: Strategy and Operations/Product Lead
-      time: Feb 2021 - July 2021
-      company: Youtube (EMEA)
-      details:  |
-        Worked part time as a 20%er on the Youtube EMEA Claims Team under Tiffany Ly (Chief of Staff, Youtube EMEA). Claims (i.e., key stats) are critical to Youtube to tell the YouTube story,
-        mission, and positive impact to press, advertisers, users, and other KOFs. Claims require executive oversight and cross-functional (XFN) work across multiple Google & YouTube teams in GBO,
-        GAPP (Policy), PR / Comms, Marketing, Investor Relations, and Product to make sure we properly land the key YouTube messages externally. To help with this mission, I worked on piloting
-        and building new processes in each region with XFN Leads to better define, prioritize, and land the high-level messages and claims. 
-        
-        In this role, I worked with senior stakeholders and engaged with global teams across Google and YouTube to help deliver highly visible processes and claims (meant for public / external use).
-        
-          - Designed and defined the product requirements for an improved claims prioritization model, processes, and escalation paths, including securing buy-in from EMEA XFN Leads and Global Teams
-            (Claims Lead, AMER, and APAC).
-          - Helped secure the critical Q2-Q4 2021 EMEA claims for key press, advertiser, and KOF activations; conducted data analyses, querying and verification.
-          - Managed and collaborated with cross-functional teams in GBO & Go-to-Market, Product, Marketing, GAPP, PR / Comms, and regional counterparts.
-          - Supported executive reviews and communications to influence and obtain approvals.
-          - Ensured the org is trained and follows any new global and/or regional guidance, processes, and steps.
-          
-        Skills - Project Management, Operational Efficiency, Relationship Management, Strategic Thinking, Data Analytics
-        
-        [[Website - Youtube blog]](https://blog.youtube)
+          - Developed an Instagram clone with features like user registration, profiles, media posting, timelines, interactions, stories, direct messaging, and privacy settings using Android SDK and Parse Server.
+          - Focused on replicating core Instagram features for social networking within the corporate environment, improving UI/UX speed by 35% and strengthening data privacy.
+          - Gained experience in secure authentication, database management, and scalable application architecture.
         
     - role: Research Intern
-      time: Jan 2020 - June 2020
-      company: Microsoft Research Lab, India
+      time: May 2022 - Aug 2022
+      company: EVEPAPER, Bengaluru
       details:  |
-        Worked on Project Sankie under the guidance of [Dr. Ranjita Bhagwan](https://www.microsoft.com/en-us/research/people/bhagwan/).
+        Conducted research on emerging technologies with focus on artificial intelligence applications.
         
-        "Project Sankie infuses data-driven techniques into engineering processes, development environments, and software lifecycles of large services. 
-        Sankie’s goal is to consume data from static and dynamic features of a system, learn from them, and provide meaningful insights that can be used
-        to make decisions for developing/reviewing, testing, deploying, monitoring, and root-causing."
-        
-          - Worked at the intersection of Program Synthesis ([PROSE](https://microsoft.github.io/prose/)), Programming Languages and Systems. Formulated a
-            research problem from scratch and performed several experiments.
-          - Designed, developed and implemented an efficient end-to-end system to learn trends and patterns in configurations from file 
-            content and commit history, which can be used to alert and suggest developers in real-time on anomalous configuration values.
-          - Successfully deployed this fine-grained system on several repositories of large-scale enterprise services to learn a diverse set of 
-            rules on configurations with a high precision.
-
-        This work led to a research publication in ASE 2021 [[Website]](https://conf.researchr.org/details/ase-2021/ase-2021-papers/19/Learning-Patterns-in-Configuration),
-        and a US patent: Pattern based configuration verifier [[Website]](https://patentcenter.uspto.gov/applications/17607621)
-        
-        [[Project Website]](https://www.microsoft.com/en-us/research/project/sankie/)
-   
-    - role: Summer Analyst
-      time: May 2019 - July 2019
-      company: Goldman Sachs, Bangalore
-      details:  |
-        Worked in the Consumer and Investment Management - Technology Division on the online consumer
-        retail banking platform "Marcus", for the application development team responsible for loans in
-        the US market. My role involved -
-        
-          - Developing REST APIs and adding features to web services for multiple functionalities
-            required for loan processing and loan recovery.
-          - Implementing encryption/decryption algorithms for data storage and transfer operations.
-          - Following scrum and agile software development practices to deliver incremental builds.
-          - Integrating with various external vendors and internal systems, defining requirements and establishing contracts.
-          - Tech implemented : MongoDB, Apache Kafka, Spring, Dropwizard, Springboot, SFTP, Apache Camel, Java microservices.
-          - Also placed runners up in Goldman Sachs Intern Coding Contest.[[Trophy]](https://drive.google.com/file/d/1YjMZQWROmi32afOoBtOT_RCtLPVDnW6O/view?usp=sharing)
-        
-        [[Website - Marcus US]](https://www.marcus.com) [[Website - Marcus UK]](https://www.marcus.co.uk/uk/en)
-           
-    - role: Technology Development Intern
-      time: Dec 2018 - Jan 2019
-      company: MakeMyTrip, Bangalore
-      details: |
-        Worked in the Flights team, under the guidance of Mr. Satish Mani (SVP - Technology), 
-        that is responsible for search, booking, confirmation, cancellation and all things related
-        to flights on the MakeMyTrip website as well as the mobile apps. My role involved - 
-
-          - Data gathering and data interpretation/visualisation of all airports across the world, as 
-            well as finding insights on flights and routes connecting them using R and Python.
-          - Data science and analytics on data regarding various carriers, flights and airports.
-          - Carrier prediction based on user requirements, and developing re-routing strategies for 
-            optimal flight routes (route optimisation - 96% accuracy). Machine learning algorithms for regression and
-            classification were implemented in Python to obtain best results.
-          - Comparing and analysing data serialisation and deserialisation formats such as Protobuf, 
-            JSON and Gzip for best communication between different services.
-            
-        [[Website]](https://www.makemytrip.com) [[Playstore]](https://play.google.com/store/apps/details?id=com.makemytrip) [[App store]](https://itunes.apple.com/in/app/makemytrip-flights-hotels/id530488359?mt=8)
-            
-    - role: Research Intern
-      time: Aug 2018 - Nov 2018
-      company: Manipal Institute of Technology, Manipal
-      details:  |
-               Worked in the domain of Computer vision and Internet of Things, under the guidance of Mrs. Sangeetha T.S.,
-               on a research project that uses the Voice HAT built on Raspberry pi to enable users to check whether a parking
-               space is available or not at a particular destination remotely. It includes image processing in Python using OpenCV
-               to detect empty parking slots and integration with voice assistant and cloud servers.
-            
-    - role: Data Science Intern
-      time: May 2018 - July 2018
-      company: MyMoneyMantra, New Delhi
-      details: |
-            Worked as an analytics, machine learning and strategic planning intern, under the guidance of 
-            Mr. Mohit Sharma (VP - Data Science). 
-              - Worked with large scale financial datasets to understand, 
-                analyse, plot and map customer behaviour, as well as predict customer actions and the appropriate 
-                future rates of interest for loans etc using concepts of machine learning and statistics. 
-              - The enhanced customer targeting based on these predictions helped the firm aquire 23 percent more
-                customers in the following quarter and improve sales by 8 percent.
-            
-            [[Website]](https://www.mymoneymantra.com)
-        
-    - role: Data Analyst - Managerial Applications
-      time: Dec 2017 - Jan 2018
-      company: Indian Institute of Management (IIM), Lucknow
-      details: |
-        Studied and learnt R, statistics, data analytics and visualisation, and data science under professor 
-        Sameer Mathur(Ph.D. - CMU) at IIM Lucknow. 
-        - Applied these concepts in real-time applications of Data Analytics (Predictive Analytics, Pricing Systems) 
-        while working on various Producer-Consumer situations such as Airline Ticket Pricing, predicting MBA starting salaries and employee retention ratios.
-        - Extensively used R to visualize and analyze data to solve business case studies from Harvard Business Review with daily assignments and remote submissions.
-        - Completed a live project under his mentorship to analyse video game 
-        sales in the past 20 years, and predict future trends in the same. Also, designed a framework to predict 
-        market behaviour and changes in gaming industry. 
-                  
-        [[Project link]](http://rpubs.com/sahilgarg30)
-     
-    - role: Android developer
-      time: Aug 2017 - Nov 2017
-      company: AutoPay, Manipal
-      details: |
-            Worked on a startup registered under Manipal University Technical Business Incubator (MUTBI) that aims to 
-            provide ride sharing facilities for students and faculty of Manipal University, collaborating with local auto
-            drivers and transportation services. 
-              - Developed an android application to enable booking and sharing of rides, and built a server implementation for the same. 
-              - Worked with Google Firebase API, Facebook API and Razorpay API. Designed the interface using Material Design guidelines.
-            
-            Find us at [[Facebook]](https://www.facebook.com/automatedpayment/) [[MUTBI Website]](https://manipal.edu/mu/important-links/innovation-entrepreneruship/mutbi.html)
-   
-    - role: Research and Development Intern
-      time: May 2017 - July 2017
-      company: Falgee Labs, Bangalore
-      details: |
-            Worked on developing an app YouTv N Remote (over 100,000 installs on PlayStore) that lets you broadcast YouTube/videos/songs/images/any other media items onto other
-            devices also having the app and paired with your own device over the same Wi-Fi network or play them locally. My
-            role involved -
-        
-            - enabling full screen video playback for YouTube videos on screen rotation locally
-            - broadcasting YouTube videos to remote devices connected via Wi-fi/Bluetooth
-            - enable organisation of local gallery images into specific folders
-            
-            [[Playstore link]](https://play.google.com/store/apps/details?id=com.falgee.youtubetvandremotecontrol)
-                        
-publications:
-    title: PUBLICATIONS
-    intro: |
-    papers:
-      - title: Learning Patterns in Configuration
-        authors: Ranjita Bhagwan, Sonu Mehta, Arjun Radhakrishna, <b>Sahil Garg</b>
-        conference: The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)
-        link: "https://conf.researchr.org/home/ase-2021"
-        description: Large services depend on correct configuration to run efficiently and seamlessly. Checking such configuration for correctness has become a very important
-                     problem because services use a large and continuously increasing number of configuration files and parameters. Yet, very few such tools exist because the
-                     definition of correctness for a configuration parameter is seldom specified or documented, existing either as tribal knowledge among a few domain experts
-                     or not at all.
-                     
-                     In this paper, we address the problem of configuration pattern mining - learning configuration rules from example. Using program synthesis
-                     and a novel string profiling algorithm, we show that we can use file contents and histories of commits to learn patterns in configuration. We have built
-                     a tool called ConfMiner that implements configuration pattern mining and have deployed it on four large repositories containing configuration for a
-                     large-scale enterprise service. Our evaluation shows that ConfMiner learns a large variety of configuration rules with high precision and is very useful in flagging anomalous configuration.
-                     This work was also accepted as a US patent - Pattern based configuration verifier.
-                     [[Website]](https://conf.researchr.org/details/ase-2021/ase-2021-papers/19/Learning-Patterns-in-Configuration)
-                     [[Patent]](https://patentcenter.uspto.gov/applications/17607621)
-
-      - title: Extracting Structured Info. From Unstructured Text Using Synthesis and Learning
-        authors: <b>Sahil Garg</b>, Ajinkya Rajput, Sriram Rajamani, Chiranjib Bhattacharyya, Deepak D'Souza
-        conference: SYNT Workshop at the 32nd International Conference on Computer-Aided Verification (CAV) 2020
-        link: "http://pl.cs.uchicago.edu/synt2020/index.html"
-        description: Framework to extract structured information from unstructured natural language text using a combination of machine learning and program 
-                     synthesis techniques. [[Paper]](http://pl.cs.uchicago.edu/synt2020/papers/Extracting_Structured_Information_From_Unstructured_Text_Using_Synth_n_Learning.pdf) [[Video]](https://www.youtube.com/watch?v=ZDGPBbIzhPA&feature=youtu.be)
+          - Conducted comprehensive research on various fields of technology, with a primary focus on artificial intelligence and its practical applications across industries.
+          - Presented research findings to the team, helping guide research initiatives and strategic direction within the company.
+          - Explored AI applications in document processing, natural language understanding, and automation technologies.
             
 projects:
     title: Projects
     intro: >
     
     assignments:
-      - title: Ghar Ke Chefs (Java)
-        link: "https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs"
+      - title: AI Agents with Reinforcement Learning & LLMs
         tagline:  |
-                  Developed a platform (Android app - over 800 active users) that brings people fond of food together and enables them to buy/sell their home-cooked 
-                  products by forming small communities of interested people living nearby. Developed the backend and database using 
-                  cloud microservices and a recommendation engine to provide personalized recommendations and suggest similar products.
-                               
-                  [[Project Video]](https://www.youtube.com/watch?v=9zrRm6ai0ZM)
-                  [[PlayStore Link]](https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs)
+                  Built and deployed multiple AI agents using Q-Learning, Deep Q-Learning, PPO, SAC, and A3C algorithms, improving task efficiency in warehouse 
+                  optimization and game environments by 30%. Fine-tuned LLaMA 2 and developed cloud-integrated LLM chatbots for medical and business workflows, 
+                  reducing response latency by 25%. Implemented advanced RL techniques including policy gradient methods and actor-critic architectures.
+                  
+                  <b>Technologies:</b> Python, TensorFlow, PyTorch, Hugging Face, Q-Learning, DQN, PPO, A3C, SAC, LLaMA 2, Cloud Integration
          
-      - title: Video game sales analysis and predictions (R)
-        link: "http://rpubs.com/sahilgarg30/videoGamesProject2"
+      - title: AI-powered Face Recognition System
+        link: (https://github.com/shreeja5060/Celebrity-Face-Recognition)
         tagline: |
-                 Performed basic quantitative analysis and exploratory data analysis of large data-set using R. Ran simple statistical tests on the data,
-                 such as the chi-square test, correlation tests and t-tests. Performed regression analysis, data visualisation and predictive modelling 
-                 on sales of video games for the past 20 years to understand trends and popularity of consoles/games. 
+                 Developed a robust face recognition system using ensemble learning, OpenCV, and Flask, achieving 95% accuracy on a dataset of 10,000+ images. 
+                 Optimized preprocessing pipeline with 20% noise reduction and enhanced facial feature extraction. Designed Flask-based backend ensuring fast 
+                 response times under 50 milliseconds for seamless user experience. Implemented CNNs and transfer learning for improved model performance.
                               
-                 [[Project Link(Rpubs)]](http://rpubs.com/sahilgarg30/videoGamesProject2)
+                 <b>Technologies:</b> Python, OpenCV, Flask, Ensemble Learning, CNNs, Transfer Learning, Image Processing
 
-      - title: Construction of Golomb Rulers using MPI and CUDA (C)
-        link: "https://github.com/sahilgarg30/Golomb-Rulers-A-parallel-implementation"
+      - title: Instagram Pixel (Instagram Clone)
+        link: (https://github.com/shreeja5060/Instagram-pixel)
         tagline: |
-                As part of the parallel processing lab course, developed a parallel algorithm to solve the OGR-n (Optimal Golomb ruler) problem, a combinatorial 
-                optimisation problem, believed to be NP-Hard using (i) MPI and (ii) CUDA standards. The algorithm uses collaborative mechanisms between processors with 
-                effective load balancing for enhanced efficiency. Compared the execution timings for serial and parallel implementation to determine speedup, improved the efficiency by 87 percent.
-                [[Project Link]](https://github.com/sahilgarg30/Golomb-Rulers-A-parallel-implementation)
+                Developed a full-featured Instagram-like Android application with secure login, media posting, stories, and messaging capabilities. 
+                Improved UI/UX speed by 35% through optimization and strengthened data privacy measures. Enhanced user engagement and built scalable 
+                architecture for future monetization opportunities. Implemented Parse Server for backend data management.
+                
+                <b>Technologies:</b> Android SDK, Java, Parse Server, Parse SDK, User Authentication, Material Design
 
-      - title: Compiler for ERPLAG language (C)
-        link: "https://github.com/sahilgarg30/Compiler_for_ERPLAG_language"
+      - title: Weather App
+        link: (https://github.com/shreeja5060/What-s-the-Weather)
         tagline: |
-                 As part of the compiler design lab course, designed and developed a lexical analyser and parser along with symbol table generation for a 
-                 compiler of a miniature language named "ERPLAG", a strongly typed language, in C. 
-                 [[Project Link]](https://github.com/sahilgarg30/Compiler_for_ERPLAG_language)
-
-      - title: North Crest Banking (Java)
-        link: "https://play.google.com/store/apps/details?id=com.ananyagupta.northcrest"
-        tagline: |
-                Developed NorthCrest, a multi-user banking app (for Android) that lets one perform multiple bank functionalities such as making online transactions, viewing
-                and updating bank balance or other account details and making payments. Used local Sqlite database for data storage with firebase integration in Java.
-                [[Playstore Link]](https://play.google.com/store/apps/details?id=com.ananyagupta.northcrest)
-      
-      - title: Problem Solver and Stress Buster App (C++)
-        link: "https://github.com/sahilgarg30/Problem-solver-and-stress-buster"
-        tagline: |
-                Developed a C++ app with an attractive UI that has a compilation of 3 games- chess, minesweeper and FreeCell which act as a stress buster and also helps science students
-                by solving 40+ different types of numerical problems such as organic conversions in Chemistry; mechanics, fluid dynamics and thermodynamics in Physics as well as matrix calculations, 
-                Probability and statistics in Math.
-                [[Project Link]](https://github.com/sahilgarg30/Problem-solver-and-stress-buster)
-      
-      - title: Partially Managed, Geofenced mobile phone (Java,Python)
-        link: "https://github.com/sahilgarg30/Partially-Managed-Geofenced-mobile-phone---HackWithInfy-19"
-        tagline: |
-                Built an android app that scans and pushes QR codes to the cloud, dials specific numbers and behaves as a kiosk app such that users cannot switch to another app or disable Wifi/GPS etc.
-                The app is geofenced and raises an alarm as well as sends alert to a Management Console which is a linked WebApp developed using Django framework, when the phone moves away from designated location by over 15 metres.
-                This project secured 1st runners up at HackWithInfy'19, a national level Hackathon conducted by Infosys and won a cash prize of 1 lakh INR.
-                [[Project Link]](https://github.com/sahilgarg30/Partially-Managed-Geofenced-mobile-phone---HackWithInfy-19) [[Trophy]](https://drive.google.com/file/d/1fURS3Ftrckhr_uJNv0lWrBtMXmY2J0kU/view?usp=sharing)
-                
-      - title: DisastAR (Unity)
-        link: "https://github.com/sahilgarg30/code.fun.do-2018"
-        tagline: |
-                Developed a cross-platform mobile application as part of the Microsoft Code.fun.do 2018 hackathon challenge using Unity Engine and Vuphoria that uses Augmented Reality (AR) to assist 
-                architects in designing 3D models of disaster-resistant buildings. Simulations of real-life disasters can be performed to analyse strength and resistance levels of buildings. 
-                
-                [[Project Link]](https://github.com/sahilgarg30/code.fun.do-2018) [[Project Video]](https://www.youtube.com/watch?v=m1WSpIgHO8k)
-                
-      - title: e-Commerce and retail (Java,SQL)
-        link: "https://github.com/sahilgarg30/DBMS-Lab-Project"
-        tagline: |
-                As part of the database management systems course, developed an e-commerce webapp using Java Swing with JDBC support and Oracle DB backend. It involved resolving complex functional 
-                dependencies, performing normalisation on multiple relational tables and implementing various nested SQL queries to extract data from a large database, to provide features such as search,
-                sort and filter based on different criteria.
-                [[Project Link]](https://github.com/sahilgarg30/DBMS-Lab-Project)
-                
-      - title: Polynomial operations using sparse matrices (C)
-        link: "https://github.com/sahilgarg30/Data-Structures-Project"
-        tagline: |
-                As part of the data structures course, designed an algorithm in C for addition and multiplication of polynomials of any degree with two terms x and y, using 2D array representation as well as
-                sparse matrix representation.
-                [[Project Link]](https://github.com/sahilgarg30/Data-Structures-Project)
-               
-      - title: BusBooking Portal (ASP.NET, C#)
-        link: "https://github.com/sahilgarg30/BusBooking-ASP.NET-app"
-        tagline: |
-                As part of the internet technologies lab course, developed a bus booking app using ASP.NET in C#. Implemented multiple concepts such as web controls, validations, themes, stylesheets, master pages,
-                cookies, session and application states, query string, data binding and gridviews. ADO.NET and SQL Database are used for persistent storage. 
-                [[Project Link]](https://github.com/sahilgarg30/BusBooking-ASP.NET-app)
-      
-      - title: Minesweeper Game (Java)
-        link: "https://github.com/sahilgarg30/Minesweeper---OOPS-Lab"
-        tagline: |
-               As part of the object oriented programming systems course, developed a minesweeper app using Java swings and applets. Implemented multiple classes and interfaces with inheritance and abstraction,
-               involving concepts of polymorphism, encapsulation and aggregation.
-                                 
-               [[Project Link]](https://github.com/sahilgarg30/Minesweeper---OOPS-Lab)
+                 Designed and developed a weather application providing real-time weather updates with accurate forecasts. Integrated location services 
+                 and API calls for fetching weather data. Implemented intuitive UI/UX design for enhanced user engagement.
+                 
+                 <b>Technologies:</b> Android, API Integration, Location Services, JSON, Network Requests
                    
 leadexperiences:
-    - role: Founder and President
-      time: Oct 2018 - Dec 2019
-      company: Apple Developers Group (ADG), Manipal
+    - role: Placement Coordinator
+      time: 2023 - 2024
+      company: BIT - Electronics and Communication Department
       details: |
-               Worked to provide a community for developers who are interested in programming and development, with special focus on the iOS ecosystem, encouraging students to actively participate in innovative 
-               activities and challenges. Grew a team from 5 to over 50 members in less than 8 months.
+               Coordinated placement activities for the ECE department, facilitating communication between students and recruiters.
                
-               - Empowered and mentored over 50 students to build projects that aim to solve relevant problems to make an impact in our direct environment by using technology to enrich lives.
-               - Conducted and taught in multiple workshops and seminars in college with over 500 attendees on different sub domains of application development and design thinking, hosted
-                 technical events such as hackathons and tech-talks by prominent people from Apple Inc and the industry.
+               - Organized pre-placement talks, aptitude training sessions, and mock interviews for students.
+               - Liaised with companies to schedule campus recruitment drives and ensured smooth execution of placement processes.
+               - Helped improve placement rates through targeted skill development initiatives.
                  
-               Find us at [[Facebook]](https://www.facebook.com/adgmanipal/) [[LinkedIn]](https://www.linkedin.com/company/adg-manipal/).
-               Coverage by [[MIT Post]](https://themitpost.com/bite-apple―ios-dev-101/) [[Certificate]](https://drive.google.com/file/d/1-34Rezg3uFotNo7N9OBFB52V9eCw_muX/view?usp=sharing)
-                 
-    - role: Core Committee Member
-      time: Sep 2016 - Dec 2019
-      company: ACM Student Chapter, Manipal
+    - role: BIT Ladies Hostel Head
+      time: 2022 - 2024
+      company: Bangalore Institute of Technology
       details: |
-               Conducted numerous workshops and delivered talks on data science, machine learning and image processing. Worked with scikit, NumPy, OpenCV, matplotlib and TensorFlow.
+               Led hostel administration and organized cultural events for residents.
                
-               Find us at [[Website]](https://manipal.acm.org) [[Facebook]](https://www.facebook.com/acm.manipal/)
+               - Organized Hostel Day events, fostering community building and student engagement.
+               - Managed hostel operations, resolved student concerns, and ensured a safe living environment.
+               - Coordinated with hostel administration on policy implementation and facility improvements.
     
-    - role: Teaching Assistant and Placement Mentor
-      time: Sep 2019 - Nov 2019
-      company: Manipal Institute of Technology, Manipal
+    - role: Student Representative
+      time: 2021 - 2024
+      company: Bangalore Institute of Technology
       details: |
-               Served as TA and Placement Mentor under the CSE Department for the special Placement Mentorship course comprising of material from Data Structures (CSE 2103) and Design and Analysis of Algorithms (CSE 2202). 
-               It involved teaching concepts, solving interview questions and clearing doubts while creating an environment conducive for learning and excellence. [[Certificate]](https://drive.google.com/file/d/1ptsZo5VPj7GM6bxpO9xbbVnB4ZsEaeIq/view?usp=sharing)
+               Served as the official representative of the class, bridging communication between students and faculty.
+               
+               - Represented student concerns and feedback to department faculty and administration.
+               - Facilitated academic discussions and helped resolve course-related issues.
+               - Organized class activities and maintained cohesive classroom environment.
 
-    - role: Management Committee Member
-      time: Nov 2016 - Nov 2018
-      company: IECSE Manipal
+    - role: Campus Ambassador
+      time: 2021 - 2022
+      company: VERZEO and Techfest IIT Bombay
       details: |
-               MIT Manipal’s largest student club across all branches. Worked with a dedicated team of 43 members to uplift the technical knowledge all over the campus and use computer science to solve many problems of students and the college.
-               Conducted and organised online and offline programming contests and workshops on Data Structures, Algorithms, Deep Learning, etc to expose students to the multiple realms of Computer Science; attended by over 1500 students.
-               Find us at [[Website]](https://www.iecsemanipal.com) [[Facebook]](https://www.facebook.com/iecsemanipal/)
-     
-    - role: Local Volunteer
-      time: Oct 2018 - Dec 2019
-      company: AIESEC Manipal
-      details: |
-               Was actively involved in various volunteering drives conducted for a variety of social service causes every Sunday. [[Website]](https://www.aiesec.in/local-volunteer/)
+               Promoted technical events and learning opportunities on campus.
                
-    - role: Student Volunteer
-      time: Oct 2016 - Dec 2019
-      company: Rotaract Club of Manipal
-      details: |
-               Participated in weekly visits to nearby orphanages, old-age homes, rehabilitation centres for mentally challenged people, and other community institutions. Actively involved in 
-               fund raisers and blood donation drives organised by the club. [[Facebook]](https://www.facebook.com/rcmanipal/)
-    
-    - role: System Administrator and Organiser
-      time: Oct 2016 - Oct 2017
-      company: Manipal Institute of Technology, Manipal
-      details: |
-               Developed and administered the online registration portal and student database for MIT Manipal’s cultural fest
-               Revels and technical fest TechTatva. The portal was used by about 3000 students. Developed using HTML, CSS and JavaScript.
-               Also served as an organiser for Cryptoss(Online Coding event) and volunteer for Workshops and Sports categories.[[Certificates]](https://drive.google.com/file/d/1AMcsAhUDsMxpR4oP7XnH9w74D-v1pj6v/view?usp=sharing)
-               
+               - Represented VERZEO's online learning programs and IIT Bombay's Techfest on campus.
+               - Organized promotional events and encouraged student participation in national technical festivals.
+               - Built partnerships between the college and external organizations for student benefit.
+     [[Badge]]-(https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view)
+     []Badge]]-(https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view) 
                
 awards:
     intro: |
 
     papers:
-      - title: McKinsey Achievement Award
-        authors: McKinsey & Company - July 2021
-        conference: Selected to receive the McKinsey Achievement Award, 2021 as one of ~1% of over 8,000 applicants. The award entails a scholarship towards further education and professional development, mentorship
-                    from a McKinsey consultant working in the sponsoring office, and an invitation to join the Keep-In-Touch program. 
-                    [[Award Badge]](https://drive.google.com/file/d/1lm_eD6t2FbJF8okoptIYm5nU9__Xc2su/view?usp=sharing)[[Website]](https://www.mckinsey.com/careers/mckinsey-achievement-awards/overview)
+      - title: Engineering Equity Hackathon Participant
+        authors: Virtusa - Feb 2023 to Mar 2023
+        conference: Participated in Virtusa's global initiative "Engineering Equity Hackathon", demonstrating innovative approaches to engineering 
+                    challenges and equity-focused solutions. Showcased technical skills and collaborative problem-solving abilities.
+                    [[Award Badge]](https://drive.google.com/file/d/1K2E86wWWodD7y-HYkIl4vKH-sme93uuG/view)
                     
-      - title: K.C. Mahindra Scholarship for Post Graduate Studies Abroad, 2021
-        authors: K.C. Mahindra Education Trust - July 2021
-        conference: Recipient of the prestigious KC Mahindra Scholarship for Post graduate Studies Abroad (Awarded to top ~3% of the applicants) for pursuing a master’s degree overseas at the University of California Berkeley.
-                    This was the very first scholarship program set up at the Trust by the founder, Mr. K. C. Mahindra, and it continues to offer bright Indian students the possibility of pursuing their higher education at
-                    reputed universities abroad since 1956. This year, the scholarship was awarded to 65 students from all over the country out of 1812 applicants after a comprehensive application and interview process.[[Website]](https://www.kcmet.org/index.aspx)
+      - title: CodeKaze National Coding Championship
+        authors: Coding Ninjas
+        conference: Secured All India Rank 1276 in the national level coding championship, competing against thousands of participants across India. 
+                    Demonstrated strong problem-solving skills and algorithmic thinking.
+                    [[Award Badge]](https://drive.google.com/file/d/1hRhac8JnsncjE8Zs6k2toBKAAxq_LjmH/view)
       
-      - title: J.N. Tata Scholarship for Post Graduate Studies Abroad, 2021
-        authors: The JN Tata Endowment for the Higher Education of Indians - July 2021
-        conference: Recipient of the prestigious J.N. Tata Scholarship for Post graduate Studies Abroad for pursuing a master’s degree overseas at the University of California Berkeley. The JN Tata Endowment for
-                    the Higher Education of Indians has been helping Indian students since 1892 with loan scholarships for higher studies. There are now more than 5,387 JN Tata Scholars all over the world. [[Website]](https://www.tata.com/newsroom/backing-the-brightest-jn-tata-endowment-fund)
+      - title: Cambridge Certification Authority
+        authors: Cambridge University
+        conference: Successfully completed Java Level 1 and Java Level 2 certifications from Cambridge Certification Authority, validating 
+                    proficiency in Java programming and object-oriented concepts.
+                    [[Award Badge]](https://drive.google.com/file/d/1q6xDkznz7Iy4ihjfbpEaa_06-uZCMUaO/view)
+                    [[Award Badge]](https://drive.google.com/file/d/1PAzCAPN7beiV3vPnauoexwHvffuueJNP/view)
       
-      - title: Dr. TMA Pai Gold Medal
-        authors: Manipal University (MAHE) - Nov 2020
-        conference: Awarded Dr. T.M.A. Pai Gold Medal for the Best Outgoing Graduate Student of Manipal Institute of Technology, Manipal for the class of 2020.
-                    Also awarded the Gold Medal for being the topper of 2016-2020 batch in B.Tech. Computer Science and Engineering. [[TMA Pai Gold Medal]](https://drive.google.com/file/d/1FFVXPOJ1-_JNmvYs0RC44v6egJbAGKVu/view?usp=sharing)
-                    [[Branch Gold Medal Certificate]](https://drive.google.com/file/d/1p8LH-N86L3ZVjg8x6cLlKPASFKmaqqyB/view?usp=sharing) [[Best Outgoing Student 2020]](https://drive.google.com/file/d/1pocGyfuZWalNvw3sueoXcfV2Bf_rhvw3/view?usp=sharing)
-      
-      - title: Diamond Jubilee Award and Appreciation for Academic Excellence
-        authors: MAHE (MIT Manipal) - Sep 2019
-        conference: Diamond Jubilee Award and scholarship for being the topper in my final(CGPA - 10/10), third(CGPA - 10/10) and second year(CGPA - 9.94/10) of engineering.
-                    Certificate of Appreciation and a gold medal for scoring a GPA of 9.5 and above in the Computer science and Engineering Department, 8 times in all 8 semesters. [[Certificates]](https://drive.google.com/file/d/1TVPeaHMXKJZeB5eorbjxvSfj6RiTTt_t/view?usp=sharing)
+      - title: 300+ DSA Problems Solved
+        authors: GeeksforGeeks and LeetCode
+        conference: Solved over 300 Data Structures and Algorithms problems on competitive programming platforms including GeeksforGeeks and LeetCode, 
+                    demonstrating consistent dedication to improving problem-solving skills and algorithmic knowledge.
         
-      - title: HackWithInfy'19 - First Runners Up and Finalist
-        authors: Infosys - Aug 2019
-        conference: Secured first runners-up position at the national level hackathon held at Infosys Pune and won a cash prize of 1 lakh INR competing against over 100 finalists. Selected as one of the 109 finalists from over 1,18,000 participants across India.
-                    Also received an opportunity for the Power Programmer full-time role at Infosys. [[Certificate]](https://drive.google.com/file/d/1fURS3Ftrckhr_uJNv0lWrBtMXmY2J0kU/view?usp=sharing)
-                    
-        
-      - title: Datamaze - Finalist (Top 25)
-        authors: Faculty of Management Studies, Delhi - Feb 2019 
-        conference: Secured a rank in the top 25, and awarded as a finalist in Datamaze, a Business intelligence competition. Received a mention as "India's top 25 student BI minds".
-                    [[Certificate]](https://drive.google.com/file/d/1cv1psxQaejhCEdZDCnh4KgGmXYSo_RH3/view?usp=sharing)
-            
-      - title: Capgemini Tech Challenge (Tech Aptitude) - Top 10 Ranker
-        authors: Capgemini - Dec 2018
-        conference: Secured a top 10 rank competing against over 30,000 participants in the Tech Aptitude contest.
-                    [[Certificate]](https://drive.google.com/file/d/1uu9gcYqRCefpvCsc_J8CU0GuogdEwiQL/view?usp=sharing)
-        
-      - title: Code.fun.do Hackathon - Runners Up
-        authors: Microsoft - Jan 2018
-        conference: Secured runners up at the national level online hackathon and the on campus senior league hackathon for project 'GharKeChefs'. Also received a special appreciation award 
-                    in ProGeek Cup 2.0 held by Geeksforgeeks, a national level Hackathon with over 2000 participating teams.
-                    [[Certificates]](https://drive.google.com/file/d/1oINO-Xq48R9fmj0SyfEvbPyHu8a0DN6S/view?usp=sharing)
+      - title: Perfect GPA Achievement
+        authors: Bangalore Institute of Technology - Jun 2024
+        conference: Graduated with a perfect GPA of 4.0/4.0 in Bachelor of Technology (Electronics and Communication Engineering), demonstrating 
+                    consistent academic excellence throughout undergraduate studies.
 
-      - title: Merit cum Means Scholarship
-        authors: MAHE (MIT Manipal) - Jul 2016
-        conference: Educational scholarship by MIT Manipal for securing a national rank of AIR 482 in the all India engineering entrance exam. Entitled to upto 100 percent  
-                    scholarship on academic fees for undergraduate study. [[Certificate]](https://drive.google.com/file/d/1x5Xw3oSXa82rS20v4ZpSaQEMG9XlYNo8/view?usp=sharing)
-                    
-      - title: PESU Commitment to Science Scholar
-        authors: PES University - Feb 2016
-        conference: Selected as Best Science Student of the year. Rewarded with a scholarship of Rs. 15000 and certificate for PESSAT THE AMATEUR SCIENTIST.
-                    [[Certificate]](https://drive.google.com/file/d/1QYaNWRJ2-HLxtD-SoHZLLCknB5ZPfiEa/view?usp=sharing)
+skills:
+    title: Technical Skills
+
+    toolset:
+      - name: Programming Languages
+        level: Python, Java, Data Structures and Algorithms
+
+      - name: Computer Fundamentals
+        level: OOPs, Computer Networks, Operating Systems
+
+      - name: ML Frameworks
+        level: TensorFlow, PyTorch, TFLite, Hugging Face
         
-      - title: HP Codewars Runners up and special mention
-        authors: Hewlett Packard and Co. (HP) - Dec 2015
-        conference: Solved the hardest problem of the problem set in the fastest time in the 18th edition of HP code wars in 2015, in Bangalore, competing against 800 teams and over 2000 
-                    participants from top schools all across the country. Also won at several other coding competitions.
-                    [[Certificates]](https://drive.google.com/file/d/1qBqXrwc_SWnBHUbIoTdhWC8le4a2SxsZ/view?usp=sharing)
+      - name: Libraries & Tools
+        level: OpenCV, Seaborn, Pandas, NumPy, Matplotlib, Flask, Android SDK, React.js, Jetpack Compose
+
+      - name: AI/ML Specialization
+        level: CNNs, RNNs, LSTMs, Reinforcement Learning (Q-Learning, DQN, PPO, A3C, SAC), Transfer Learning, NLP, Computer Vision
+
+      - name: Databases
+        level: MySQL, Parse Server
+
+      - name: Cloud Platforms
+        level: AWS, Azure, Google Colab
+
+      - name: Industry Standards
+        level: ASPICE, ISO 26262, ISO 21434, AUTOSAR, Functional Safety, Cybersecurity
+
+      - name: Development Tools
+        level: GitHub, Bitbucket, JIRA, POLARION, Gradle
+
+workshops:
+    - name: JIRA and POLARION Workshop
+      organization: Microchip Technology
+      date: Aug 2024
+      description: Comprehensive workshop on project tracking and requirements management tools.
+
+    - name: ASPICE Training
+      organization: Microchip Technology - Corporate Quality Team
+      date: Apr 2024
+      description: Three-day intensive training on Automotive SPICE standards and process improvement methodologies.
+
+presentations:
+    - title: Software Development Life Cycle Models
+      venue: Microchip Technology
+      date: May 2024
+      description: Delivered PowerPoint presentation on various SDLC models to project teams, explaining best practices and implementation strategies.
+
+    - title: ASPICE Training Sessions
+      venue: Microchip Technology
+      date: 2024
+      description: Conducted ASPICE training to different departments of Microchip Technology, promoting quality standards awareness.
+
+    - title: Change Control Board Meetings
+      venue: Microchip Technology
+      date: Weekly, 2024-2025
+      description: Led weekly Change Control Board meetings, managing change requests and ensuring compliance with quality processes.
 
 footer: >
