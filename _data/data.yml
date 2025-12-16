@@ -66,16 +66,15 @@ education:
     - degree: Master of Science in Computer Science
       university: Illinois Institute of Technology
       time: Aug 2025 - May 2027
+      grade: GPA - 4.0/4.0
+      rank1: Focus - AI/ML, Deep Learning, Reinforcement Learning
       details: |
-        GPA - 4.0/4.0
-        
-        Focus - AI/ML, Deep Learning, Reinforcement Learning
       
     - degree: B.Tech in Electronics and Communication Engineering
       university: Bangalore Institute of Technology
       time: Nov 2020 - Jun 2024
+      grade: GPA - 4.0/4.0
       details: |
-        GPA - 4.0/4.0 
           
 experiences:
     - role: Software Quality Engineer
