@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: ShreejaSingh
+    name: Shreeja Singh
     tagline: Software Engineer and Software Quality Specialist
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -34,22 +34,24 @@ sidebar:
 
     interests:
       - item: Competitive Programming
-        link: 
-         - https://www.geeksforgeeks.org/profile/shreejajsr10?tab=activity
-         - https://leetcode.com/u/SHREEJASINGH/
+        link: https://www.geeksforgeeks.org/profile/shreejajsr10
 
-      - item: Campus Ambassador
-        link: 
-        - https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view
-        - https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view
+      - item: LeetCode Profile
+        link: https://leetcode.com/u/SHREEJASINGH/
+
+      - item: Campus Ambassador - Verzeo
+        link: https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view
+        
+      - item: Campus Ambassador - Techfest IIT Bombay
+        link: https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view
         
       - item: Modelling/Acting
-        link: 
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-             <b>Graduate Student in Computer Science at Illinois Institute of Technology</b> with expertise in AI/ML, software engineering, and application development.I have hands-on experience in building intelligent and scalable software systems, including AI-driven applications, backend services, and Android-based mobile solutions, with a focus on performance, reliability, and real-world deployment. My top programming languages are Java and Python.
+             <b>Graduate Student in Computer Science at Illinois Institute of Technology</b> with expertise in AI/ML, software engineering, and application development. I have hands-on experience in building intelligent and scalable software systems, including AI-driven applications, backend services, and Android-based mobile solutions, with a focus on performance, reliability, and real-world deployment. My top programming languages are Java and Python.
              
              Former <b>Software Quality Engineer at Microchip</b>, where I developed AI-powered tools and chatbots that improved team productivity by 40% and enhanced compliance processes. 
              Strong background in implementing ASPICE, ISO 26262, and ISO 21434 standards for automotive software development.
@@ -58,14 +60,14 @@ career-profile:
       
              Core competencies include - <b>Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, NLP, Software Quality Assurance, and Automotive Standards Compliance</b>.
 
-             [[PDF version of resume]](https://drive.google.com/file/d/1yowBitMaTrtHeyMZ4DWDjVX3I7Lq8-41/view)[[Transcripts]](https://drive.google.com/file/d/1hhnrRcj_IEP9KaIAiMaENCnzq9g4WmUj/view) [[MOOCs]](https://drive.google.com/file/d/1-ttXIeoV2ASEQHZeenYlZLrM1KV8UVn8/view)
+             [[PDF version of resume]](https://drive.google.com/file/d/1yowBitMaTrtHeyMZ4DWDjVX3I7Lq8-41/view) [[Transcripts]](https://drive.google.com/file/d/1hhnrRcj_IEP9KaIAiMaENCnzq9g4WmUj/view) [[MOOCs]](https://drive.google.com/file/d/1-ttXIeoV2ASEQHZeenYlZLrM1KV8UVn8/view)
 
 education:
     - degree: Master of Science in Computer Science
       university: Illinois Institute of Technology
       grade: GPA - 4.0/4.0
       time: Aug 2025 - May 2027
-      Focus: AI/ML, Deep Learning, Reinforcement Learning
+      rank1: Focus - AI/ML, Deep Learning, Reinforcement Learning
       details: |
       
     - degree: B.Tech in Electronics and Communication Engineering
@@ -75,7 +77,7 @@ education:
       details: | 
           
 experiences:
-   -  role: Software Quality Engineer
+    - role: Software Quality Engineer
       time: Jul 2024 - Jul 2025
       company: Microchip Technology, Bengaluru
       details:  |
@@ -87,7 +89,6 @@ experiences:
           - Supported AI/ML-driven projects in semiconductor manufacturing, applying machine learning techniques for defect detection, increasing defect detection accuracy by 20% and reducing production errors.
           - Led training sessions on ASPICE processes and quality standards to different departments, driving awareness and adoption of best practices.
                 
-                
     - role: Software Quality Intern
       time: Feb 2024 - Jun 2024
       company: Microchip Technology, Bengaluru
@@ -98,7 +99,6 @@ experiences:
           - Engineered requirement workflows using JIRA and POLARION, improving traceability and reducing documentation effort by 20%.
           - Spearheaded documentation pipelines for Project Sagittarius, enabling faster validation of AUTOSAR-based microcontroller development aligned with ASPICE and ISO 26262 standards.
           - Participated in three-day intensive ASPICE training by the Corporate Quality Team, gaining deep insights into process improvement methodologies.
-        
         
     - role: Software Development Intern
       time: Jul 2022 - Aug 2022
@@ -126,6 +126,7 @@ projects:
     
     assignments:
       - title: AI Agents with Reinforcement Learning & LLMs
+        link: "#"
         tagline:  |
                   Built and deployed multiple AI agents using Q-Learning, Deep Q-Learning, PPO, SAC, and A3C algorithms, improving task efficiency in warehouse 
                   optimization and game environments by 30%. Fine-tuned LLaMA 2 and developed cloud-integrated LLM chatbots for medical and business workflows, 
@@ -134,7 +135,7 @@ projects:
                   <b>Technologies:</b> Python, TensorFlow, PyTorch, Hugging Face, Q-Learning, DQN, PPO, A3C, SAC, LLaMA 2, Cloud Integration
          
       - title: AI-powered Face Recognition System
-        link: https://github.com/shreeja5060/Celebrity-Face-Recognition
+        link: "https://github.com/shreeja5060/Celebrity-Face-Recognition"
         tagline: |
                  Developed a robust face recognition system using ensemble learning, OpenCV, and Flask, achieving 95% accuracy on a dataset of 10,000+ images. 
                  Optimized preprocessing pipeline with 20% noise reduction and enhanced facial feature extraction. Designed Flask-based backend ensuring fast 
@@ -143,7 +144,7 @@ projects:
                  <b>Technologies:</b> Python, OpenCV, Flask, Ensemble Learning, CNNs, Transfer Learning, Image Processing
 
       - title: Instagram Pixel (Instagram Clone)
-        link: https://github.com/shreeja5060/Instagram-pixel
+        link: "https://github.com/shreeja5060/Instagram-pixel"
         tagline: |
                 Developed a full-featured Instagram-like Android application with secure login, media posting, stories, and messaging capabilities. 
                 Improved UI/UX speed by 35% through optimization and strengthened data privacy measures. Enhanced user engagement and built scalable 
@@ -152,7 +153,7 @@ projects:
                 <b>Technologies:</b> Android SDK, Java, Parse Server, Parse SDK, User Authentication, Material Design
 
       - title: Weather App
-        link: https://github.com/shreeja5060/What-s-the-Weather
+        link: "https://github.com/shreeja5060/What-s-the-Weather"
         tagline: |
                  Designed and developed a weather application providing real-time weather updates with accurate forecasts. Integrated location services 
                  and API calls for fetching weather data. Implemented intuitive UI/UX design for enhanced user engagement.
@@ -199,8 +200,8 @@ leadexperiences:
                - Represented VERZEO's online learning programs and IIT Bombay's Techfest on campus.
                - Organized promotional events and encouraged student participation in national technical festivals.
                - Built partnerships between the college and external organizations for student benefit.
-               [Badge](https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view)
-               [Badge](https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view) 
+               
+               [[Badge - Verzeo]](https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view) [[Badge - Techfest]](https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view)
                
 awards:
     intro: |
@@ -210,20 +211,19 @@ awards:
         authors: Virtusa - Feb 2023 to Mar 2023
         conference: Participated in Virtusa's global initiative "Engineering Equity Hackathon", demonstrating innovative approaches to engineering 
                     challenges and equity-focused solutions. Showcased technical skills and collaborative problem-solving abilities.
-                    [[Award Badge]](https://drive.google.com/file/d/1K2E86wWWodD7y-HYkIl4vKH-sme93uuG/view)
+                    [[Certificate]](https://drive.google.com/file/d/1K2E86wWWodD7y-HYkIl4vKH-sme93uuG/view)
                     
       - title: CodeKaze National Coding Championship
         authors: Coding Ninjas
         conference: Secured All India Rank 1276 in the national level coding championship, competing against thousands of participants across India. 
                     Demonstrated strong problem-solving skills and algorithmic thinking.
-                    [[Award Badge]](https://drive.google.com/file/d/1hRhac8JnsncjE8Zs6k2toBKAAxq_LjmH/view)
+                    [[Certificate]](https://drive.google.com/file/d/1hRhac8JnsncjE8Zs6k2toBKAAxq_LjmH/view)
       
       - title: Cambridge Certification Authority
         authors: Cambridge University
         conference: Successfully completed Java Level 1 and Java Level 2 certifications from Cambridge Certification Authority, validating 
                     proficiency in Java programming and object-oriented concepts.
-                    [[Award Badge]](https://drive.google.com/file/d/1q6xDkznz7Iy4ihjfbpEaa_06-uZCMUaO/view)
-                    [[Award Badge]](https://drive.google.com/file/d/1PAzCAPN7beiV3vPnauoexwHvffuueJNP/view)
+                    [[Java Level 1]](https://drive.google.com/file/d/1q6xDkznz7Iy4ihjfbpEaa_06-uZCMUaO/view) [[Java Level 2]](https://drive.google.com/file/d/1PAzCAPN7beiV3vPnauoexwHvffuueJNP/view)
       
       - title: 300+ DSA Problems Solved
         authors: GeeksforGeeks and LeetCode
@@ -294,4 +294,4 @@ presentations:
       description: Led weekly Change Control Board meetings, managing change requests and ensuring compliance with quality processes.
 
 footer: >
-@ 2025 Shreeja Singh
+    Copyright 2025 Shreeja Singh
