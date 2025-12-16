@@ -65,16 +65,17 @@ career-profile:
 education:
     - degree: Master of Science in Computer Science
       university: Illinois Institute of Technology
-      grade: GPA - 4.0/4.0
       time: Aug 2025 - May 2027
-      rank1: Focus - AI/ML, Deep Learning, Reinforcement Learning
       details: |
+        GPA - 4.0/4.0
+        
+        Focus - AI/ML, Deep Learning, Reinforcement Learning
       
     - degree: B.Tech in Electronics and Communication Engineering
       university: Bangalore Institute of Technology
-      grade: GPA - 4.0/4.0
       time: Nov 2020 - Jun 2024
-      details: | 
+      details: |
+        GPA - 4.0/4.0 
           
 experiences:
     - role: Software Quality Engineer
@@ -239,32 +240,47 @@ skills:
     title: Technical Skills
 
     toolset:
-      - name: Programming Languages
-        level: Python, Java, Data Structures and Algorithms
+      - name: Python
+        level: 95%
 
-      - name: Computer Fundamentals
-        level: OOPs, Computer Networks, Operating Systems
-
-      - name: ML Frameworks
-        level: TensorFlow, PyTorch, TFLite, Hugging Face
+      - name: Java
+        level: 90%
         
-      - name: Libraries & Tools
-        level: OpenCV, Seaborn, Pandas, NumPy, Matplotlib, Flask, Android SDK, React.js, Jetpack Compose
+      - name: Data Structures & Algorithms
+        level: 90%
 
-      - name: AI/ML Specialization
-        level: CNNs, RNNs, LSTMs, Reinforcement Learning (Q-Learning, DQN, PPO, A3C, SAC), Transfer Learning, NLP, Computer Vision
+      - name: TensorFlow & PyTorch
+        level: 85%
 
-      - name: Databases
-        level: MySQL, Parse Server
+      - name: Machine Learning & Deep Learning
+        level: 90%
 
-      - name: Cloud Platforms
-        level: AWS, Azure, Google Colab
+      - name: Computer Vision (OpenCV)
+        level: 85%
 
-      - name: Industry Standards
-        level: ASPICE, ISO 26262, ISO 21434, AUTOSAR, Functional Safety, Cybersecurity
+      - name: NLP & LLMs
+        level: 80%
 
-      - name: Development Tools
-        level: GitHub, Bitbucket, JIRA, POLARION, Gradle
+      - name: Reinforcement Learning
+        level: 85%
+
+      - name: Android Development
+        level: 85%
+
+      - name: Flask & React.js
+        level: 80%
+
+      - name: SQL & Databases
+        level: 85%
+
+      - name: AWS & Cloud Platforms
+        level: 75%
+        
+      - name: ASPICE & ISO Standards
+        level: 80%
+
+      - name: JIRA & POLARION
+        level: 85%
 
 workshops:
     - name: JIRA and POLARION Workshop
