@@ -239,6 +239,9 @@ skills:
     title: Technical Skills
 
     toolset:
+      - name: C
+        level: 95%
+        
       - name: Python
         level: 95%
 
