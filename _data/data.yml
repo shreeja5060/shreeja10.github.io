@@ -83,11 +83,11 @@ experiences:
       details:  |
         Developed AI-powered solutions and implemented automotive quality standards across semiconductor manufacturing processes.
         
-          - Developed and enhanced Microchip's AI-powered Chatbot integrated with ASPICE, JIRA, POLARION, and CAD tools, reducing manual search time by 40% and significantly improving team productivity across engineering workflows.
-          - Implemented advanced Image Recognition and NLP features in the chatbot using Python, enabling engineers to upload, analyze, and extract insights from process diagrams and functional safety/cybersecurity documents, improving documentation accuracy and efficiency.
-          - Conducted ASPICE assessments and audits through chatbot-CAD integration, guiding teams to achieve Capability Level 3 (CL3), improving audit readiness by 30% and ensuring standardized process adoption across projects.
-          - Supported AI/ML-driven projects in semiconductor manufacturing, applying machine learning techniques for defect detection, increasing defect detection accuracy by 20% and reducing production errors.
-          - Led training sessions on ASPICE processes and quality standards to different departments, driving awareness and adoption of best practices.
+          - Developed and enhanced Microchip’s Chatbot integrated with ASPICE, JIRA, POLARION, and CAD tools, enabling faster access to workflows, process documents, and compliance data; reduced manualsearch time by 40% and improved team productivity using Agile methodology.
+          - Implemented Image Recognition and NLP features in the chatbot using Python, integratingRESTful APIs for seamless communication between services; allowed engineers to upload, analyze, andextract insights from process diagrams and functional safety/Cybersecurity documents, improvingdocumentation accuracy and efficiency.
+          - Collaborated with embedded development teams on C/C Sharp codebases, conducting thorough codereviews and debugging complex system-level issues; demonstrated strong problem-solving skills andattention to detail in fast-paced environment.
+          - Conducted ASPICE assessments and audits through chatbot-CAD integration, documenting processes inConfluence, JIRA, Bitbucket and Polarion, guiding teams to achieve Capability Level 3 (CL3),improving audit readiness by 30% and ensuring standardized process adoption.
+          - Supported AI/ML-driven projects in semiconductor manufacturing deployed on AWS cloud platform,applying machine learning techniques for defect detection, increasing defect detection accuracy by 20%and reducing production errors.
                 
     - role: Software Quality Intern
       time: Feb 2024 - Jun 2024
@@ -125,14 +125,15 @@ projects:
     intro: >
     
     assignments:
-      - title: AI Agents with Reinforcement Learning & LLMs
+      - title: Microchip AI-Powered Chatbot with NLP & Image Recognition
         link: "#"
         tagline:  |
-                  Built and deployed multiple AI agents using Q-Learning, Deep Q-Learning, PPO, SAC, and A3C algorithms, improving task efficiency in warehouse 
-                  optimization and game environments by 30%. Fine-tuned LLaMA 2 and developed cloud-integrated LLM chatbots for medical and business workflows, 
-                  reducing response latency by 25%. Implemented advanced RL techniques including policy gradient methods and actor-critic architectures.
+                  Developed and enhanced Microchip’s chatbot integrated with ASPICE, JIRA, POLARION, and CAD toolsusing Python, NLP, and RESTful APIs; 
+                  implemented image recognition to analyze process diagramsand functional safety/cybersecurity documents,
+                  reducing manual search time by 40%, documentation errorsby 35%, and cutting compliance review time from hours to minutes, 
+                  resulting in 30% improvement inteam productivity and faster project delivery cycles.
                   
-                  <b>Technologies:</b> Python, TensorFlow, PyTorch, Hugging Face, Q-Learning, DQN, PPO, A3C, SAC, LLaMA 2, Cloud Integration
+                  <b>Technologies:</b> Python,RESTful APIs,FastAPI,JSON,HTTPS
          
       - title: AI-powered Face Recognition System
         link: "https://github.com/shreeja5060/Celebrity-Face-Recognition"
@@ -238,22 +239,32 @@ awards:
 skills:
     title: Technical Skills
 
-    toolset:
-      - name: C
+    toolset:     
+    
+      - name: Python & Frameworks
         level: 95%
         
-      - name: Python
-        level: 95%
-
-      - name: Java
+      - name: Java & Core Java
         level: 90%
         
       - name: Data Structures & Algorithms
-        level: 90%
+        level: 95%
 
-      - name: TensorFlow & PyTorch
+      - name: C
+        level: 95%
+
+      - name: HTML,CSS & Javascript
+        level: 75%
+        
+      - name: EDA & Feature Engineering
+        level: 90%
+        
+      - name: ML Ops 
         level: 85%
 
+      - name: TensorFlow,PyTorch & OpenCv
+        level: 85%
+        
       - name: Machine Learning & Deep Learning
         level: 90%
 
@@ -282,7 +293,7 @@ skills:
         level: 80%
 
       - name: JIRA & POLARION
-        level: 85%
+        level: 95%
 
 workshops:
     - name: JIRA and POLARION Workshop
