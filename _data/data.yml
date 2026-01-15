@@ -259,7 +259,7 @@ skills:
       - name: EDA & Feature Engineering
         level: 90%
         
-      - name: ML Ops 
+      - name: MLOps 
         level: 85%
 
       - name: TensorFlow,PyTorch & OpenCv
