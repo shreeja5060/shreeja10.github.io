@@ -125,15 +125,20 @@ projects:
     intro: >
     
     assignments:
-      - title: Microchip AI-Powered Chatbot with NLP & Image Recognition
-        link: "#"
-        tagline:  |
-                  Developed and enhanced Microchip’s chatbot integrated with ASPICE, JIRA, POLARION, and CAD toolsusing Python, NLP, and RESTful APIs; 
-                  implemented image recognition to analyze process diagramsand functional safety/cybersecurity documents,
-                  reducing manual search time by 40%, documentation errorsby 35%, and cutting compliance review time from hours to minutes, 
-                  resulting in 30% improvement inteam productivity and faster project delivery cycles.
-                  
-                  <b>Technologies:</b> Python,RESTful APIs,FastAPI,JSON,HTTPS
+  - title: Autonomous Multi-Agent AI System
+    link: "https://github.com/shreeja5060/Autonomous-agent"
+    tagline: |
+              Built a production-grade multi-agent AI pipeline with 6 specialized agents (Coordinator, 
+              Research, Summary, Teach, Code, Critic) that automatically detects user intent and routes 
+              queries to the correct pipeline; integrated real-time web search via DuckDuckGo to retrieve 
+              live data beyond model training cutoff, multimodal image analysis using LLaMA 4 Scout vision 
+              model, and disk-backed episodic memory for cross-session context retention. Implemented an 
+              RLHF feedback loop collecting human preference signals (1-5 star ratings) to track and improve 
+              response quality over time, achieving 8.2/10 average critic score across diverse query types.
+              Exposed via FastAPI REST backend with auto-generated Swagger docs and a browser-based frontend 
+              with real-time agent status visualization.
+
+              <b>Technologies:</b> Python, FastAPI, Groq API, LLaMA 3.3 70B, LLaMA 4 Scout, DuckDuckGo Search, RLHF, REST APIs, HTML/CSS/JavaScript
          
       - title: AI-powered Face Recognition System
         link: "https://github.com/shreeja5060/Celebrity-Face-Recognition"
@@ -236,10 +241,8 @@ awards:
         conference: Graduated with a perfect GPA of 4.0/4.0 in Bachelor of Technology (Electronics and Communication Engineering), demonstrating 
                     consistent academic excellence throughout undergraduate studies.
 
-skills:
-    title: Technical Skills
-
-    toolset:     
+title: Technical Skills
+    toolset:
     
       - name: Python & Frameworks
         level: 95%
@@ -249,49 +252,61 @@ skills:
         
       - name: Data Structures & Algorithms
         level: 95%
-
+        
       - name: C
         level: 95%
-
-      - name: HTML,CSS & Javascript
+        
+      - name: HTML, CSS & Javascript
         level: 75%
         
       - name: EDA & Feature Engineering
         level: 90%
         
-      - name: MLOps 
+      - name: MLOps
         level: 85%
-
-      - name: TensorFlow,PyTorch & OpenCv
+        
+      - name: TensorFlow, PyTorch & OpenCV
         level: 85%
         
       - name: Machine Learning & Deep Learning
         level: 90%
-
+        
       - name: Computer Vision (OpenCV)
         level: 85%
-
+        
       - name: NLP & LLMs
+        level: 85%
+        
+      - name: Multi-Agent Systems & Agentic AI
         level: 80%
-
+        
+      - name: Prompt Engineering
+        level: 85%
+        
+      - name: RLHF & Feedback Systems
+        level: 75%
+        
       - name: Reinforcement Learning
         level: 85%
-
+        
+      - name: FastAPI & REST APIs
+        level: 85%
+        
       - name: Android Development
         level: 85%
-
+        
       - name: Flask & React.js
         level: 80%
-
+        
       - name: SQL & Databases
         level: 85%
-
+        
       - name: AWS & Cloud Platforms
         level: 75%
         
       - name: ASPICE & ISO Standards
         level: 80%
-
+        
       - name: JIRA & POLARION
         level: 95%
 
