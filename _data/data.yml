@@ -2,28 +2,25 @@
 # Be aware that even a small syntax error here can lead to failures in output. Use yml language.
 #
 
-sidebar: 
-    
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+sidebar:
+    about: False
+    education: True
 
-    # Profile information
     name: Shreeja Singh
     tagline: Software Engineer and Software Quality Specialist
-    avatar: p1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: p1.jpg
 
-    # Sidebar links
     email: ssingh160@hawk.illinoistech.edu
     phone:
-    website: #do not add http://
+    website:
     linkedin: ssinghcs
     github: shreeja5060
     gitlab:
     bitbucket:
     twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     languages:
       - idiom: English
@@ -41,10 +38,10 @@ sidebar:
 
       - item: Campus Ambassador - Verzeo
         link: https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view
-        
+
       - item: Campus Ambassador - Techfest IIT Bombay
         link: https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view
-        
+
       - item: Modelling/Acting
         link:
 
@@ -52,147 +49,147 @@ career-profile:
     title: Career Profile
     summary: |
              <b>Graduate Student in Computer Science at Illinois Institute of Technology</b> with expertise in AI/ML, software engineering, and application development. I have hands-on experience in building intelligent and scalable software systems, including AI-driven applications, backend services, and Android-based mobile solutions, with a focus on performance, reliability, and real-world deployment. My top programming languages are Java and Python.
-             
-             Former <b>Software Quality Engineer at Microchip</b>, where I developed AI-powered tools and chatbots that improved team productivity by 40% and enhanced compliance processes. 
+
+             Former <b>Software Quality Engineer at Microchip</b>, where I developed AI-powered tools and chatbots that improved team productivity by 40% and enhanced compliance processes.
              Strong background in implementing ASPICE, ISO 26262, and ISO 21434 standards for automotive software development.
-             
+
              Completed <b>Bachelor of Technology in Electronics and Communication Engineering</b> from Bangalore Institute of Technology with a <b>perfect GPA of 4.0/4.0</b>.
-      
+
              Core competencies include - <b>Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, NLP, Software Quality Assurance, and Automotive Standards Compliance</b>.
 
-             [[PDF version of resume]](https://drive.google.com/file/d/1yowBitMaTrtHeyMZ4DWDjVX3I7Lq8-41/view) [[Transcripts]](https://drive.google.com/file/d/1hhnrRcj_IEP9KaIAiMaENCnzq9g4WmUj/view) [[MOOCs]](https://drive.google.com/file/d/1-ttXIeoV2ASEQHZeenYlZLrM1KV8UVn8/view)
+             [[PDF version of resume]](https://drive.google.com/file/d/1yowBitMaTrtHeyMZ4DWDjVX3I7Lq8-41/view) [[Transcripts]](https://drive.google.com/file/d/1hhnrRcj_IEP9KAIAiMaENCnzq9g4WmUj/view) [[MOOCs]](https://drive.google.com/file/d/1-ttXIeoV2ASEQHZeenYlZLrM1KV8UVn8/view)
 
 education:
     - degree: Master of Science in Computer Science
       university: Illinois Institute of Technology
       time: Aug 2025 - May 2027
       grade: GPA - 3.3/4.0
-      rank1: Focus - AI/ML, Software Engineering,Deep Learning,Database Organization
+      rank1: Focus - AI/ML, Software Engineering, Deep Learning, Database Organization
       details: |
-      
+
     - degree: B.Tech in Electronics and Communication Engineering
       university: Bangalore Institute of Technology
       time: Nov 2020 - Jun 2024
       grade: GPA - 4.0/4.0
       details: |
-          
+
 experiences:
     - role: Software Quality Engineer
       time: Jul 2024 - Jul 2025
       company: Microchip Technology, Bengaluru
-      details:  |
+      details: |
         Developed AI-powered solutions and implemented automotive quality standards across semiconductor manufacturing processes.
-        
-          - Developed and enhanced Microchip’s Chatbot integrated with ASPICE, JIRA, POLARION, and CAD tools, enabling faster access to workflows, process documents, and compliance data; reduced manualsearch time by 40% and improved team productivity using Agile methodology.
-          - Implemented Image Recognition and NLP features in the chatbot using Python, integratingRESTful APIs for seamless communication between services; allowed engineers to upload, analyze, andextract insights from process diagrams and functional safety/Cybersecurity documents, improvingdocumentation accuracy and efficiency.
-          - Collaborated with embedded development teams on C/C Sharp codebases, conducting thorough codereviews and debugging complex system-level issues; demonstrated strong problem-solving skills andattention to detail in fast-paced environment.
-          - Conducted ASPICE assessments and audits through chatbot-CAD integration, documenting processes inConfluence, JIRA, Bitbucket and Polarion, guiding teams to achieve Capability Level 3 (CL3),improving audit readiness by 30% and ensuring standardized process adoption.
-          - Supported AI/ML-driven projects in semiconductor manufacturing deployed on AWS cloud platform,applying machine learning techniques for defect detection, increasing defect detection accuracy by 20%and reducing production errors.
-                
+
+          - Developed and enhanced Microchip's Chatbot integrated with ASPICE, JIRA, POLARION, and CAD tools, enabling faster access to workflows, process documents, and compliance data; reduced manual search time by 40% and improved team productivity using Agile methodology.
+          - Implemented Image Recognition and NLP features in the chatbot using Python, integrating RESTful APIs for seamless communication between services; allowed engineers to upload, analyze, and extract insights from process diagrams and functional safety/Cybersecurity documents, improving documentation accuracy and efficiency.
+          - Collaborated with embedded development teams on C/C Sharp codebases, conducting thorough code reviews and debugging complex system-level issues; demonstrated strong problem-solving skills and attention to detail in fast-paced environment.
+          - Conducted ASPICE assessments and audits through chatbot-CAD integration, documenting processes in Confluence, JIRA, Bitbucket and Polarion, guiding teams to achieve Capability Level 3 (CL3), improving audit readiness by 30% and ensuring standardized process adoption.
+          - Supported AI/ML-driven projects in semiconductor manufacturing deployed on AWS cloud platform, applying machine learning techniques for defect detection, increasing defect detection accuracy by 20% and reducing production errors.
+
     - role: Software Quality Intern
       time: Feb 2024 - Jun 2024
       company: Microchip Technology, Bengaluru
-      details:  |
+      details: |
         Gained comprehensive experience in automotive software quality standards and requirements management.
 
           - Implemented Automotive SPICE (ASPICE), ISO 26262, and ISO 21434 guidelines to enhance software quality and strengthen compliance across ongoing development cycles.
           - Engineered requirement workflows using JIRA and POLARION, improving traceability and reducing documentation effort by 20%.
           - Spearheaded documentation pipelines for Project Sagittarius, enabling faster validation of AUTOSAR-based microcontroller development aligned with ASPICE and ISO 26262 standards.
           - Participated in three-day intensive ASPICE training by the Corporate Quality Team, gaining deep insights into process improvement methodologies.
-        
+
     - role: Software Development Intern
       time: Jul 2022 - Aug 2022
       company: Tata Steel, Jamshedpur
       details: |
         Developed social networking application with focus on corporate collaboration.
-        
+
           - Developed an Instagram clone with features like user registration, profiles, media posting, timelines, interactions, stories, direct messaging, and privacy settings using Android SDK and Parse Server.
           - Focused on replicating core Instagram features for social networking within the corporate environment, improving UI/UX speed by 35% and strengthening data privacy.
           - Gained experience in secure authentication, database management, and scalable application architecture.
-        
+
     - role: Research Intern
       time: May 2022 - Aug 2022
       company: EVEPAPER, Bengaluru
-      details:  |
+      details: |
         Conducted research on emerging technologies with focus on artificial intelligence applications.
-        
+
           - Conducted comprehensive research on various fields of technology, with a primary focus on artificial intelligence and its practical applications across industries.
           - Presented research findings to the team, helping guide research initiatives and strategic direction within the company.
           - Explored AI applications in document processing, natural language understanding, and automation technologies.
-            
+
 projects:
     title: Projects
     intro: >
-    
-    assignments:
-  - title: Autonomous Multi-Agent AI System
-    link: "https://github.com/shreeja5060/Autonomous-agent"
-    tagline: |
-              Built a production-grade multi-agent AI pipeline with 6 specialized agents (Coordinator, 
-              Research, Summary, Teach, Code, Critic) that automatically detects user intent and routes 
-              queries to the correct pipeline; integrated real-time web search via DuckDuckGo to retrieve 
-              live data beyond model training cutoff, multimodal image analysis using LLaMA 4 Scout vision 
-              model, and disk-backed episodic memory for cross-session context retention. Implemented an 
-              RLHF feedback loop collecting human preference signals (1-5 star ratings) to track and improve 
-              response quality over time, achieving 8.2/10 average critic score across diverse query types.
-              Exposed via FastAPI REST backend with auto-generated Swagger docs and a browser-based frontend 
-              with real-time agent status visualization.
 
-              <b>Technologies:</b> Python, FastAPI, Groq API, LLaMA 3.3 70B, LLaMA 4 Scout, DuckDuckGo Search, RLHF, REST APIs, HTML/CSS/JavaScript
-         
+    assignments:
+      - title: Autonomous Multi-Agent AI System
+        link: "https://github.com/shreeja5060/Autonomous-agent"
+        tagline: |
+                  Built a production-grade multi-agent AI pipeline with 6 specialized agents (Coordinator,
+                  Research, Summary, Teach, Code, Critic) that automatically detects user intent and routes
+                  queries to the correct pipeline; integrated real-time web search via DuckDuckGo to retrieve
+                  live data beyond model training cutoff, multimodal image analysis using LLaMA 4 Scout vision
+                  model, and disk-backed episodic memory for cross-session context retention. Implemented an
+                  RLHF feedback loop collecting human preference signals (1-5 star ratings) to track and improve
+                  response quality over time, achieving 8.2/10 average critic score across diverse query types.
+                  Exposed via FastAPI REST backend with auto-generated Swagger docs and a browser-based frontend
+                  with real-time agent status visualization.
+
+                  <b>Technologies:</b> Python, FastAPI, Groq API, LLaMA 3.3 70B, LLaMA 4 Scout, DuckDuckGo Search, RLHF, REST APIs, HTML/CSS/JavaScript
+
       - title: AI-powered Face Recognition System
         link: "https://github.com/shreeja5060/Celebrity-Face-Recognition"
         tagline: |
-                 Developed a robust face recognition system using ensemble learning, OpenCV, and Flask, achieving 95% accuracy on a dataset of 10,000+ images. 
-                 Optimized preprocessing pipeline with 20% noise reduction and enhanced facial feature extraction. Designed Flask-based backend ensuring fast 
+                 Developed a robust face recognition system using ensemble learning, OpenCV, and Flask, achieving 95% accuracy on a dataset of 10,000+ images.
+                 Optimized preprocessing pipeline with 20% noise reduction and enhanced facial feature extraction. Designed Flask-based backend ensuring fast
                  response times under 50 milliseconds for seamless user experience. Implemented CNNs and transfer learning for improved model performance.
-                              
+
                  <b>Technologies:</b> Python, OpenCV, Flask, Ensemble Learning, CNNs, Transfer Learning, Image Processing
 
       - title: Instagram Pixel (Instagram Clone)
         link: "https://github.com/shreeja5060/Instagram-pixel"
         tagline: |
-                Developed a full-featured Instagram-like Android application with secure login, media posting, stories, and messaging capabilities. 
-                Improved UI/UX speed by 35% through optimization and strengthened data privacy measures. Enhanced user engagement and built scalable 
+                Developed a full-featured Instagram-like Android application with secure login, media posting, stories, and messaging capabilities.
+                Improved UI/UX speed by 35% through optimization and strengthened data privacy measures. Enhanced user engagement and built scalable
                 architecture for future monetization opportunities. Implemented Parse Server for backend data management.
-                
+
                 <b>Technologies:</b> Android SDK, Java, Parse Server, Parse SDK, User Authentication, Material Design
 
       - title: Weather App
         link: "https://github.com/shreeja5060/What-s-the-Weather"
         tagline: |
-                 Designed and developed a weather application providing real-time weather updates with accurate forecasts. Integrated location services 
+                 Designed and developed a weather application providing real-time weather updates with accurate forecasts. Integrated location services
                  and API calls for fetching weather data. Implemented intuitive UI/UX design for enhanced user engagement.
-                 
+
                  <b>Technologies:</b> Android, API Integration, Location Services, JSON, Network Requests
-                   
+
 leadexperiences:
     - role: Placement Coordinator
       time: 2023 - 2024
       company: BIT - Electronics and Communication Department
       details: |
                Coordinated placement activities for the ECE department, facilitating communication between students and recruiters.
-               
+
                - Organized pre-placement talks, aptitude training sessions, and mock interviews for students.
                - Liaised with companies to schedule campus recruitment drives and ensured smooth execution of placement processes.
                - Helped improve placement rates through targeted skill development initiatives.
-                 
+
     - role: BIT Ladies Hostel Head
       time: 2022 - 2024
       company: Bangalore Institute of Technology
       details: |
                Led hostel administration and organized cultural events for residents.
-               
+
                - Organized Hostel Day events, fostering community building and student engagement.
                - Managed hostel operations, resolved student concerns, and ensured a safe living environment.
                - Coordinated with hostel administration on policy implementation and facility improvements.
-    
+
     - role: Student Representative
       time: 2021 - 2024
       company: Bangalore Institute of Technology
       details: |
                Served as the official representative of the class, bridging communication between students and faculty.
-               
+
                - Represented student concerns and feedback to department faculty and administration.
                - Facilitated academic discussions and helped resolve course-related issues.
                - Organized class activities and maintained cohesive classroom environment.
@@ -202,111 +199,112 @@ leadexperiences:
       company: VERZEO and Techfest IIT Bombay
       details: |
                Promoted technical events and learning opportunities on campus.
-               
+
                - Represented VERZEO's online learning programs and IIT Bombay's Techfest on campus.
                - Organized promotional events and encouraged student participation in national technical festivals.
                - Built partnerships between the college and external organizations for student benefit.
-               
+
                [[Badge - Verzeo]](https://drive.google.com/file/d/17MzZAGO3tqpozDPwUdgzKpM42xRGDCS2/view) [[Badge - Techfest]](https://drive.google.com/file/d/1ff_Sks4PNQ7hG_v3cKL5xEQKfoA4f5d0/view)
-               
+
 awards:
     intro: |
 
     papers:
       - title: Engineering Equity Hackathon Participant
         authors: Virtusa - Feb 2023 to Mar 2023
-        conference: Participated in Virtusa's global initiative "Engineering Equity Hackathon", demonstrating innovative approaches to engineering 
+        conference: Participated in Virtusa's global initiative "Engineering Equity Hackathon", demonstrating innovative approaches to engineering
                     challenges and equity-focused solutions. Showcased technical skills and collaborative problem-solving abilities.
                     [[Certificate]](https://drive.google.com/file/d/1K2E86wWWodD7y-HYkIl4vKH-sme93uuG/view)
-                    
+
       - title: CodeKaze National Coding Championship
         authors: Coding Ninjas
-        conference: Secured All India Rank 1276 in the national level coding championship, competing against thousands of participants across India. 
+        conference: Secured All India Rank 1276 in the national level coding championship, competing against thousands of participants across India.
                     Demonstrated strong problem-solving skills and algorithmic thinking.
                     [[Certificate]](https://drive.google.com/file/d/1hRhac8JnsncjE8Zs6k2toBKAAxq_LjmH/view)
-      
+
       - title: Cambridge Certification Authority
         authors: Cambridge University
-        conference: Successfully completed Java Level 1 and Java Level 2 certifications from Cambridge Certification Authority, validating 
+        conference: Successfully completed Java Level 1 and Java Level 2 certifications from Cambridge Certification Authority, validating
                     proficiency in Java programming and object-oriented concepts.
-                    [[Java Level 1]](https://drive.google.com/file/d/1q6xDkznz7Iy4ihjfbpEaa_06-uZCMUaO/view) [[Java Level 2]](https://drive.google.com/file/d/1PAzCAPN7beiV3vPnauoexwHvffuueJNP/view)
-      
+                    [[Java Level 1]](https://drive.google.com/file/d/1q6xDkznz7Iy4ihjfbpEaa_06-uZMUaO/view) [[Java Level 2]](https://drive.google.com/file/d/1PAzCAPN7beiV3vPnauoexwHvffuueJNP/view)
+
       - title: 300+ DSA Problems Solved
         authors: GeeksforGeeks and LeetCode
-        conference: Solved over 300 Data Structures and Algorithms problems on competitive programming platforms including GeeksforGeeks and LeetCode, 
+        conference: Solved over 300 Data Structures and Algorithms problems on competitive programming platforms including GeeksforGeeks and LeetCode,
                     demonstrating consistent dedication to improving problem-solving skills and algorithmic knowledge.
-        
+
       - title: Perfect GPA Achievement
         authors: Bangalore Institute of Technology - Jun 2024
-        conference: Graduated with a perfect GPA of 4.0/4.0 in Bachelor of Technology (Electronics and Communication Engineering), demonstrating 
+        conference: Graduated with a perfect GPA of 4.0/4.0 in Bachelor of Technology (Electronics and Communication Engineering), demonstrating
                     consistent academic excellence throughout undergraduate studies.
 
-title: Technical Skills
+skills:
+    title: Technical Skills
     toolset:
-    
+
       - name: Python & Frameworks
         level: 95%
-        
+
       - name: Java & Core Java
         level: 90%
-        
+
       - name: Data Structures & Algorithms
         level: 95%
-        
+
       - name: C
         level: 95%
-        
+
       - name: HTML, CSS & Javascript
         level: 75%
-        
+
       - name: EDA & Feature Engineering
         level: 90%
-        
+
       - name: MLOps
         level: 85%
-        
+
       - name: TensorFlow, PyTorch & OpenCV
         level: 85%
-        
+
       - name: Machine Learning & Deep Learning
         level: 90%
-        
+
       - name: Computer Vision (OpenCV)
         level: 85%
-        
+
       - name: NLP & LLMs
         level: 85%
-        
+
       - name: Multi-Agent Systems & Agentic AI
         level: 80%
-        
+
       - name: Prompt Engineering
         level: 85%
-        
+
       - name: RLHF & Feedback Systems
         level: 75%
-        
+
       - name: Reinforcement Learning
         level: 85%
-        
+
       - name: FastAPI & REST APIs
         level: 85%
-        
+
       - name: Android Development
         level: 85%
-        
+
       - name: Flask & React.js
         level: 80%
-        
+
       - name: SQL & Databases
         level: 85%
-        
+
       - name: AWS & Cloud Platforms
         level: 75%
-        
+
       - name: ASPICE & ISO Standards
         level: 80%
-        
+
       - name: JIRA & POLARION
         level: 95%
 
